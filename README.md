@@ -15,6 +15,6 @@
 <a href="https://youtube.com/channel/UCLmbx95mErhu3-gS4dc0KcQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <a href="https://wa.me/6289652571145" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=imam-83-cyber&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=imam-83-cyber&layout=compact&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=imam-83-cyber&repo=dnsbot&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=imam-83&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=imam-83&layout=compact&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=imam-83&repo=dnsbot&theme=dark)
